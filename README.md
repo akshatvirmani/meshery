@@ -300,7 +300,6 @@ Find out more on the <a href="https://layer5.io/community#meshmate">Layer5 commu
 <br /><br />
 <p>
 <a href="https://slack.meshery.io">
-
 <picture align="right">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/readme/slack-dark-128.png"  width="110px">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/readme/slack-128.png" width="110px">
